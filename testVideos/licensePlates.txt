@@ -3,3 +3,8 @@ carback2 - VSZ-467
 carFront - ZKZ-469
 carPast1 - COB-479
 carPast2 - ZLS-533
+
+KTKrotate - KTK-985
+IVYrotate - IVY-457
+ownRotatedBack - ZLJ-287
+ownRotatedFront - ZLJ-287
